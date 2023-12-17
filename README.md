@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 -->
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -52,13 +53,14 @@ Here are some ideas to get you started:
 
 ### Technologies
 
-![Node.js](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white)
+![Mobile App Development](https://img.shields.io/badge/-Mobile%20App%20Development-4CAF50?&logo=android&logoColor=white)
+![Android & iOS](https://img.shields.io/badge/-Android%20%26%20iOS-3DDC84?style=flat&logo=android&logoColor=white&labelColor=000000)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+
 
 #### 📫 How to reach me:
   
