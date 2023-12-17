@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :book: About Me
+### :book: About Me
 
 - Software Engineer at Simform solutions.
 - I’m currently working on inventory management system.
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/faiyaz-shaikh/faiyaz-shaikh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiyaz-shaikh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </a>   
 -->
 
-## &#x1f4c8; LeetCode Stats
+### &#x1f4c8; LeetCode Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/faiyaz_shaikh?ext=heatmap)
 
