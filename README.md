@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: About Me
 
+- Software Engineer at simform solution
+- I’m currently working on inventroy managment system 
+- I'm currently learning mobile app and backend development
 
 ## &#x1f4c8; GitHub Stats
 
