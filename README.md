@@ -41,6 +41,15 @@ Here are some ideas to get you started:
 </a>   
 -->
 
+### Languages
+![JavaScript](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
 #### 📫 How to reach me:
   
    [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/FaiyazShaikh_)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://in.linkedin.com/in/shaikh-faiyaz-243001194) &nbsp; [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="3.5%"/>](https://leetcode.com/faiyaz_shaikh/)  &nbsp; <a href="mailto:faiyazshaikh7351@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
