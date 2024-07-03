@@ -59,14 +59,18 @@ Here are some ideas to get you started:
 <a href="https://github.com/faiyaz-shaikh/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faiyaz-shaikh&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
--->
+
 
 ### &#x1f4c8; LeetCode Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/faiyaz_shaikh?ext=heatmap)
 
+-->
+
 
 #### 📫 How to reach me:
-  
-   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/FaiyazShaikh_)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://in.linkedin.com/in/shaikh-faiyaz-243001194) &nbsp; [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="3.5%"/>](https://leetcode.com/faiyaz_shaikh/)  &nbsp; <a href="mailto:faiyazshaikh7351@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+   <!-- &nbsp; [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="3.5%"/>](https://leetcode.com/faiyaz_shaikh/) 
+   -->
+   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/FaiyazShaikh_)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://in.linkedin.com/in/shaikh-faiyaz-243001194) &nbsp; <a href="mailto:faiyazshaikh7351@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
